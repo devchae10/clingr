@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/* SangBleuSunrise */
+@font-face {
+    font-family: 'SangBleuSunrise';
+    font-display: swap;
+    src: url('../fonts/SangBleuSunrise-Light.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'SangBleuSunrise';
+    font-display: swap;
+    src: url('../fonts/SangBleuSunrise-Regular.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 400;
+}
+
+/* SofiaPro */
+@font-face {
+    font-family: 'SofiaPro';
+    font-display: swap;
+    src: url('../fonts/SofiaPro-Light.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 300;
+}

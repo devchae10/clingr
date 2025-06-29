@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.page-main{}
+
+/* sect-intro */
+.sect-intro{}
+.sect-intro .header{}
+.sect-intro .header .hd-inner{
+    padding: 0 30px;
+    margin: 0 auto;
+    max-width: 1480px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sect-intro .header .logo{}
+.sect-intro .header .btn-area{
+    display: flex;
+    align-items: center;
+}
+.sect-intro .header .btn-buy-wrap{}
+.sect-intro .header .btn-buy-wrap .txt{}
+.sect-intro .header .btn-menu-wrap{}
+.sect-intro .header .btn-menu{}
+.sect-intro .header .btn-menu .ham{}
+.sect-intro .header .btn-menu .ham.up{}
+.sect-intro .header .btn-menu .ham.down{}
+
+.sect-intro .group-visual{}
+.sect-intro .group-visual .headline-box{}
+.sect-intro .group-visual .headline{}
+.sect-intro .group-visual .intro-video-area{}
+.sect-intro .group-visual .intro-video-area .btn-play{}
+.sect-intro .group-visual .intro-video-area video{}
